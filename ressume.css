@@ -292,6 +292,37 @@ nav a:hover{
     float: right;
      padding: 70px 30px;
 }
+.food button{
+    border-radius: 50px;
+    width: 150px;
+    margin-left: 75px;
+    height: 50px;
+    text-transform: uppercase;
+    color: #faebefff;
+    background-color: #4252b3ef;
+    font-size: 20px;
+    font-weight: bold;
+    border: transparent;
+   
+}
+.food button:hover{
+    color:#4252b3ef;
+    background-color: #faebefff;
+    border-radius: 50px;
+    border:solid #4252b3ef;
+}
+.food  a{
+    text-decoration: none;
+    color:#faebefff;
+    background-color: #4252b3ef;
+    cursor: pointer;
+}
+.food  a:hover{
+    color:#4252b3ef;
+    background-color: #faebefff;
+    border-radius: 50px;
+    /* border:solid #4252b3ef; */
+}
 .cover{
     width: 350px;
     height: 400px;
